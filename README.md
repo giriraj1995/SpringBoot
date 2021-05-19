@@ -1,2 +1,2 @@
 # SpringBoot
-Spring Boot Practices
+Spring Boot Practice.
